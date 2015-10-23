@@ -1396,13 +1396,13 @@ static void load_bg() {
   // happy message; max message 24 characters
   // DO NOT GO OVER 24 CHARACTERS, INCLUDING SPACES OR YOU WILL CRASH
   // YOU HAVE BEEN WARNED
-	char happymsg_buffer65[26] = "TIME TO DIA BEAT*THIS!\0";
-	char happymsg_buffer83[26] = "PEDAL TO THE METAL! CK83\0";
-	char happymsg_buffer143[26] = "YOUR PEBBLE LOVES U TOO\0";
-  char happymsg_buffer107[26] = "TEAM NN RACING 4*THE*WIN\0";
-	char happymsg_buffer116[26] = "VICTORY LANE! RYAN REED\0";
-	char happymsg_buffer207[26] = "HILO HILO OFF 2TEST U GO\0";
-  char happymsg_buffer314[26] = "NO MORE PIE FOR*YOU\0";
+	char happymsg_buffer65[26] = "SHES KINDA HYPO!\0";
+	char happymsg_buffer83[26] = "SHE LOOKS SO PERFECT\0";
+	char happymsg_buffer107[26] = "KISS ME, BLISS BG!\0";
+	char happymsg_buffer116[26] = "MUKES HAD A FLUKE?\0";
+	char happymsg_buffer143[26] = "HEY EVERYBODY SWEET BG\0";
+	char happymsg_buffer207[26] = "OUT OF MY LIMIT\0";
+	char happymsg_buffer314[26] = "DONT STOP (CORRECTING)\0";
   
 	// CODE START
   
